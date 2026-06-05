@@ -35,7 +35,7 @@ This project demonstrates how to import data, rename columns, and build a fully 
 - Added a **border** and **shadow** to the visual
 
 ### 5. Save
-- Saved the report as **Nüfus**
+- Saved the report as **Population**
 
 ## 📈 Key Insights
 
